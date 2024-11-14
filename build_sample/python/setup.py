@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='humancat',
+    name='humancat2',
     version='0.0.5',
     description='GitHub Action Build Test Sample',
     author='jaeyun',
