@@ -19,7 +19,7 @@ jobs:
         uses: actions/setup-go@v4
         with:
           go-version: ${{ matrix.go-version }}
-          architecture: x86
+          architecture: amd64
       - name: Check linting
         run: |
           go fmt ./...
