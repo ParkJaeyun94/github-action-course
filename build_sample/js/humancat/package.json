@@ -1,5 +1,5 @@
 {
-  "name": "humancat",
+  "name": "@jaeyun/humancat",
   "version": "0.0.8",
   "description": "GitHub Action Build Sample",
   "scripts": {
